@@ -33,7 +33,7 @@ This project fetches and displays data from multiple endpoints including Users, 
 
 | Splash Screen           | Home Screen             | Search Screen           | Detail Screen           |
 |-------------------------|-------------------------|-------------------------|-------------------------|
-| ![](screenshots/p1.png) | ![](screenshots/p2.png) | ![](screenshots/p3.png) | ![](screenshots/p3.png) | 
+| ![](screenshots/p1.png) | ![](screenshots/p2.png) | ![](screenshots/p3.png) | ![](screenshots/p4.png) | 
 
 
 ---
