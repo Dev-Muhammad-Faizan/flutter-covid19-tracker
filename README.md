@@ -114,13 +114,13 @@ Country-wise statistics:https://disease.sh/v3/covid-19/countries
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Dev-Muhammad-Faizan/flutter-lottery-app.git
+git clone https://github.com/Dev-Muhammad-Faizan/flutter-covid19-tracker.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd flutter-lottery-app
+cd lutter-covid19-tracker
 ```
 
 3. Install dependencies:
